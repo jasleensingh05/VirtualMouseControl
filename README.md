@@ -26,7 +26,8 @@ Computer Vision project to control different functionalities performed using mou
 3. VolumeHandControl.py 
 4. VolumeHandControlAdvance.py
 
-# Create a new project with virtual environment in pycharm
-# Then import alll the packages
-# And then clone the repository to run the file
-# Now you are good to go👍
+# Steps to follow
+1. Create a new project with virtual environment in pycharm
+2. Then import alll the packages
+3. And then clone the repository to run the file
+4. Now you are good to go👍
